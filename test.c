@@ -12,16 +12,9 @@ int substact(int a, int b)
 
 int main()
 {
-	//this is test
-	//is conflict?
-	//conflict test
-	//modify
-	int num1, num2 = 0;
-	//hello?
 	int a, b = 0;
 
 	add(a, b);
 	substact(a, b);
-	//modify
 }
 
