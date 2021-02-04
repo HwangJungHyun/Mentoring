@@ -5,6 +5,11 @@ int add(int a, int b)
 	return a + b;
 }
 
+int substact(int a, int b)
+{
+	return a - b;
+}
+
 int main()
 {
 	//this is test
@@ -14,5 +19,6 @@ int main()
 	int a, b = 0;
 
 	add(a, b);
+	substact(a, b);
 }
 
